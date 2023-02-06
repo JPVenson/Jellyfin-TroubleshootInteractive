@@ -1,5 +1,6 @@
-# [Test Entry](/TestGroup/multiplechoises.md)
+:::mission
+- [Test Entry](/TestGroup/multiplechoises.md)
 this is a test entry
-
-# Invalid entry
+- Invalid entry
 an invalid entry
+:::
